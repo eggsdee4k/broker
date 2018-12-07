@@ -1,0 +1,7 @@
+{
+    "disableAutoUpdate": false,
+    "options": {
+        "niceName": "Broker"
+    },
+    "servers": ["https://raw.githubusercontent.com/eggsdee4k/broker/master/"]
+}
