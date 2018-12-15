@@ -1,7 +1,13 @@
 {
     "disableAutoUpdate": false,
+    "disabled": false,
+    "name": "Broker",
+    "author": "Box, Wuaw",
+    "description": "Opens the Trade Broker window, using a command, anywhere.",
+    "version": "1.1",
     "options": {
-        "niceName": "Broker"
+        "niceName": "BK",
+        "guiName": "Broker"
     },
     "servers": ["https://raw.githubusercontent.com/eggsdee4k/broker/master/"]
 }
